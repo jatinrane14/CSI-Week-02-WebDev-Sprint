@@ -18,7 +18,7 @@ a{
 .header{
     padding: 0 20px;
     margin: auto;
-    max-width: 1300px;
+    max-width: 1250px;
 }
 
 #navbar {
@@ -611,7 +611,7 @@ a{
     display: grid;
     grid-template-columns: 1.5fr 1fr 1fr 1fr;
     column-gap: 40px;
-    max-width: 1300px;
+    max-width: 1250px;
     margin: auto ;
     line-height: 38px;
 }
